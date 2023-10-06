@@ -29,6 +29,21 @@ const products = [
     ]
   },
   {
+    id: "eopuB8Xr-jYaH-gT9R-7exb-CM9M1KNjANjm",
+    image: "images/products/samsung-s22-ultra.jpg",
+    name: "Samsung Galaxy S22 ultra",
+    rating: {
+      stars: 5,
+      count: 3027
+    },
+    priceCents: 71999,
+    keywords: [
+      "phone",
+      "device",
+      "samsung"
+    ]
+  },
+  {
     id: "83d4ca15-0f35-48f5-b7a3-1ea210004f2e",
     image: "images/products/adults-plain-cotton-tshirt-2-pack-teal.jpg",
     name: "Adults Plain Cotton T-Shirt - 2 Pack",
@@ -263,6 +278,21 @@ const products = [
     ]
   },
   {
+    id: "ZtykvTuG-I8KJ-Fgq7-r9MBV-K3QCT3LfCxn",
+    image: "images/products/iphone-15-pro-max.jpg",
+    name: "Iphone 15 Pro Max",
+    rating: {
+      stars: 5,
+      count: 4702
+    },
+    priceCents: 204805,
+    keywords: [
+      "phone",
+      "apple",
+      "device"
+    ]
+  },
+  {
     id: "a82c6bac-3067-4e68-a5ba-d827ac0be010",
     image: "images/products/straw-sunhat.webp",
     name: "Straw Lifeguard Sun Hat",
@@ -360,6 +390,21 @@ const products = [
     ],
     type: "clothing",
     sizeChartLink: "images/clothing-size-chart.png"
+  },
+  {
+    id: "KAi5WEhc-52kc-SClo-euK1-kWL9Gb7TLTuN",
+    image: "images/products/lenovo-thinkpad-x1-cabon-2021.jpg",
+    name: "Lenovo Thinkpad X1 Cabon 2021",
+    rating: {
+      stars: 3.5,
+      count: 9126
+    },
+    priceCents: 92467,
+    keywords: [
+      "laptop",
+      "device",
+      "lenovo"
+    ]
   },
   {
     id: "b86ddc8b-3501-4b17-9889-a3bad6fb585f",
@@ -474,6 +519,21 @@ const products = [
     ]
   },
   {
+    id: "AfRQRkZ-hVX8-et08-KRvZ-fyKmWCoc0Xw6V",
+    image: "images/products/white-nike-air-force.jpg",
+    name: "White Nike Air Force Shop",
+    rating: {
+      stars: 4,
+      count: 1387
+    },
+    priceCents: 51995,
+    keywords: [
+      "shoe",
+      "nike",
+      "footwear"
+    ]
+  },
+  {
     id: "a434b69f-1bc1-482d-9ce7-cd7f4a66ce8d",
     image: "images/products/vanity-mirror-silver.jpg",
     name: "Vanity Mirror with Heavy Base - Chrome",
@@ -533,6 +593,21 @@ const products = [
       "boxes",
       "food containers",
       "kitchen"
+    ]
+  },
+  {
+    id: "gxEyFaWS-yG7a-bVUk-uJc6-PbgqO3qtp6PO",
+    image: "images/products/samsung-galaxy-tab-s7.jpg",
+    name: "Samsung Galaxy Tab S7",
+    rating: {
+      stars: 4,
+      count: 5725
+    },
+    priceCents: 5299,
+    keywords: [
+      "tab",
+      "device",
+      "samsung"
     ]
   },
   {
@@ -655,6 +730,36 @@ const products = [
       "hoodies",
       "apparel",
       "mens"
+    ]
+  },
+  {
+    id: "ghtgui1c-xGLA-qprC-8KzC-W93pkYwCSeZA",
+    image: "images/products/iphone-13-pro-max.jpg",
+    name: "Iphone 13 Pro Max",
+    rating: {
+      stars: 4,
+      count: 4829
+    },
+    priceCents: 97028,
+    keywords: [
+      "phone",
+      "apple",
+      "device"
+    ]
+  },
+  {
+    id: "iY7FZnx-lvQO-nIpU-alWr-zu8m9m1frPrx6",
+    image: "images/products/green-nike-air-shoe.jpg",
+    name: "Green Nike Air Shoe",
+    rating: {
+      stars: 3.5,
+      count: 7821
+    },
+    priceCents: 43703,
+    keywords: [
+      "shoes",
+      "footwear",
+      "nike"
     ]
   }
 ];
