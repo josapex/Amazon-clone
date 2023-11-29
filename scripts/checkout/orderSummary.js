@@ -153,11 +153,11 @@ export function renderOrderSummary() {
             })
         });
     document.querySelectorAll('.js-delivery-option').forEach((element) => {
-            element.addEventListener('click', () => {
-                const {productId, deliveryOptionId} = element.dataset
-                upadteDeliveryOption(productId, deliveryOptionId);
-                renderOrderSummary();
-                renderPaymentSummary();
-            });
-        })
+        element.addEventListener('click', () => {
+            const {productId, deliveryOptionId} = element.dataset
+            upadteDeliveryOption(productId, deliveryOptionId);
+            renderOrderSummary();
+            renderPaymentSummary();
+        });
+    })
 }
